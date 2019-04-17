@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{27E1157D-5AA8-4227-8CD8-390528E17914}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetoAvonale.Console/TesteRecursividade.cs">
+    <Files>
+      <File FileName="ProjetoAvonale.Console.Test/TestProgram.cs" Line="32" Column="47" />
+      <File FileName="ProjetoAvonale.Console/Program.cs" Line="12" Column="48" />
+      <File FileName="ProjetoAvonale.Console/TesteRecursividade.cs" Line="20" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjetoAvonale.Console" expanded="True">
+            <Node name="ProjetoAvonale.Console" expanded="True">
+              <Node name="TesteRecursividade.cs" selected="True" />
+            </Node>
+            <Node name="ProjetoAvonale.Console.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProjetoAvonale.Console" expanded="True">
+            <Node name="ProjetoAvonale.Console.Test" expanded="True">
+              <Node name="ProjetoAvonale" expanded="True">
+                <Node name="Console" expanded="True">
+                  <Node name="Test" expanded="True">
+                    <Node name="TestProgram" expanded="True">
+                      <Node name="DeveSerUmaMedia" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../ProjetoAvonale.Console/TesteRecursividade.cs" line="18" offsetX="736" offsetY="289" expression="result" liveUpdate="False" />
+    <Watch file="../../../ProjetoAvonale.Console/TesteRecursividade.cs" line="16" offsetX="431" offsetY="250" expression="b" liveUpdate="False" />
+    <Watch file="../../../ProjetoAvonale.Console/TesteRecursividade.cs" line="17" offsetX="430" offsetY="278" expression="c" liveUpdate="False" />
+    <Watch file="../../../ProjetoAvonale.Console/TesteRecursividade.cs" line="15" offsetX="435" offsetY="221" expression="a" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProjetoAvonale.Console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
