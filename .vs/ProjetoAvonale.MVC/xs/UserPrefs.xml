@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AE62F157-16D3-41C0-A0E1-7852780FE8C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProjetoAvonale.MVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetoAvonale.MVC/Startup.cs">
+    <Files>
+      <File FileName="ProjetoAvonale.MVC/Controllers/HomeController.cs" Line="39" Column="1" />
+      <File FileName="ProjetoAvonale.MVC/Startup.cs" Line="1" Column="1" />
+      <File FileName="ProjetoAvonale.MVC/Views/Shared/_Layout.cshtml" Line="34" Column="99" />
+      <File FileName="ProjetoAvonale.MVC/Services/RepositorioServices.cs" Line="27" Column="71" />
+      <File FileName="ProjetoAvonale.MVC/Models/Repositorio.cs" Line="12" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjetoAvonale.MVC" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
